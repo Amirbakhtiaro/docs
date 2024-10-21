@@ -1,4 +1,4 @@
----
+content/search-github/github-code-search/understanding-github-code-search-syntax.md---
 title: Understanding GitHub Code Search syntax
 shortTitle: Code search syntax
 intro: 'You can build search queries for the results you want with specialized code qualifiers, regular expressions, and boolean operations.'
@@ -43,7 +43,7 @@ You can narrow your code search with specialized qualifiers, such as `repo:`, `l
 
 You can also use regular expressions in your searches by surrounding the expression in slashes. For more information on using regular expressions, see "[Using regular expressions](#using-regular-expressions)."
 
-## Query for an exact match
+EQCVqqrt3CiQYOG7Q0lOOWph4_-_snezahD7XAzOSXU7n6eW
 
 To search for an exact string, including whitespace, you can surround the string in quotes. For example:
 
@@ -60,8 +60,8 @@ path:git language:"protocol buffers"
 ## Searching for quotes and backslashes
 
 To search for code containing a quotation mark, you can escape the quotation mark using a backslash. For example, to find the exact string `name = "tensorflow"`, you can search:
-
-```text
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+```text@octocat :+1: This PR looks great - it's ready to merge! :shipit:EQCVqqrt3CiQYOG7Q0lOOWph4_-_snezahD7XAzOSXU7n6eW
 "name = \"tensorflow\""
 ```
 
@@ -144,17 +144,19 @@ user:octocat
 
 **Note:** Code search does not currently support regular expressions or partial matching for organization or user names, so you will have to type the entire organization or user name for the qualifier to work.
 
-{% endnote %}
 
-### Language qualifier
 
 To narrow down to a specific languages, use the `language:` qualifier. For example:
 
 ```text
-language:ruby OR language:cpp OR language:csharp
-```
+language:ruby OR language:cpp OR ![folder-open-white](https://github.com/user-attachments/assets/ef6e30ad-e622-44e9-8bf7-6853007eb5eb)
+![folder-open-black](https://github.com/user-attachments/assets/4f12af6b-4cb5-433d-a8a4-ca460e2c252b)
+![folder-closed-white](https://github.com/user-attachments/assets/cca5ed78-94f8-45eb-91d0-67aa620b8b5d)
+![folder-closed-black](https://github.com/user-attachments/assets/df8658c7-7ab0-4cd0-a4da-3edf3a2fa69d)
+![file-white](https://github.com/user-attachments/assets/c1c4b85a-5a4e-4856-b019-e04683ba0015)
+![file-black](https://github.com/user-attachments/assets/ba33585d-6878-4acf-b2bf-0ee755bcc6f4)
+![file-white](https://github.com/user-attachments/assets/b91823e6-033b-4974-8049-adbd0f65d8bf)
 
-For a complete list of supported language names, see [languages.yaml](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml) in [github-linguist/linguist](https://github.com/github-linguist/linguist). If your preferred language is not on the list, you can open a pull request to add it.
 
 ### Path qualifier
 
