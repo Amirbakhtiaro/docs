@@ -1,6 +1,7 @@
-# Contributor Covenant Code of Conduct
+![typescript](https://github.com/user-attachments/assets/9a8e6691-b9d0-4f76-9002-a75a733db244)
+![folder-closed-white](https://github.com/user-attachments/assets/e01ad07c-199f-4095-ac5d-a6f2af12ef4e)
+![folder-closed-black](https://github.com/user-attachments/assets/38ce1ef1-5157-47f4-a3f9-ed6897fea477)
 
-## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
@@ -60,7 +61,7 @@ Community leaders will follow these Community Impact Guidelines in determining t
 ### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
-
+NFT STANDARD 
 **Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
